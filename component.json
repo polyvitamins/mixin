@@ -4,9 +4,7 @@
   "description": "Classic mixin",
   "version": "0.0.1",
   "keywords": ["mixin"],
-  "main": [
-    "dist/mixin.js"
-  ],
+  "main": "dist/mixin.js",
   "dependencies": {
     },
   "scripts": [
