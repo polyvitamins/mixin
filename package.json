@@ -1,0 +1,22 @@
+{
+  "name": "mixin",
+  "version": "1.0.0",
+  "description": "Classic mixin",
+  "main": "src/mixin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyvitamins/mixin.git"
+  },
+  "keywords": [
+    "mixin"
+  ],
+  "author": "Vladimir Kalmykov <vladimirmorulus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polyvitamins/mixin/issues"
+  },
+  "homepage": "https://github.com/polyvitamins/mixin#readme"
+}
