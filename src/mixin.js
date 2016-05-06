@@ -16,7 +16,7 @@
 	Использование:
 	mixin(foo, bar1, bar2, bar3 .. barN);
 	*/
-	module.exports = function(a) { 
+	export default function(a) { 
 		var i=1; 
 		for (;i<arguments.length;i++) { 
 			if ("object"===typeof arguments[i]) {
