@@ -1,7 +1,7 @@
 {
   "name": "mixin",
-  "version": "1.2.0",
-  "description": "Classic mixin (es6 module)",
+  "version": "1.2.1",
+  "description": "Classic mixin (rollback to es5)",
   "main": "src/mixin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
